@@ -18,3 +18,4 @@ score = tf.nn.softmax(predict)
 
 st.image(image)
 st.write("Naturel disaster in image is "+ data_cat[np.argmax(score)])
+st.write("with acuracy of "+ str(np.max(score)*100))
