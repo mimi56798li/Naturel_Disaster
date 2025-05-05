@@ -1,0 +1,13 @@
+Flask==3.0.0                 
+Flask-SQLAlchemy ==3.1.1     
+h5py ==0.14.0                 
+ipykernel ==6.29.5          
+ipython==9.0.2              
+keras==3.9.2                
+matplotlib==3.10.1         
+numpy==2.1.2               
+pandas ==2.2.3              
+requests ==2.32.3            
+seaborn ==0.13.2              
+tensorflow==2.19.0           
+tensorboard==2.19.0           
